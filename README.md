@@ -5,5 +5,5 @@ The pricing is concluded based on different features / factors of a property. Th
 
 Data Dictionary:
 
-<img scr="https://github.com/Nagesh-S-R/Terros_Real_Estate_Agency_Project/assets/147719922/a955ee24-cb78-4c04-bfd9-45a68ff5697e" width="500" height="450">
+![image](https://github.com/Nagesh-S-R/Terros_Real_Estate_Agency_Project/assets/147719922/8b78d5f3-7107-4c98-83d2-80b5cc21e894)
 
